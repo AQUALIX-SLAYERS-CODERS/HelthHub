@@ -35,10 +35,10 @@
 - Transportation coordination for medical appointments.
 
 ### Project Impact
-- Improved accessibility to healthcare services.
-- Enhanced efficiency in medical processes.
-- Empowered patients through better health monitoring and prediction.
-- Increased convenience for both healthcare providers and patients.**
+ Improved accessibility to healthcare services.
+ Enhanced efficiency in medical processes.
+ Empowered patients through better health monitoring and prediction.
+ Increased convenience for both healthcare providers and patients.**
 
 ### License
 **Copyright © 2007 Free Software Foundation.**
