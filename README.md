@@ -1,4 +1,4 @@
-# HelthHub
+# HealthHub
 ### Empowering Healthcare Through Innovation
 ![](https://github.com/AQUALIX-SLAYERS-CODERS/HelthHub/assets/144356897/f70af991-99d6-470b-90fb-c1cfed369dcc)
 
@@ -15,7 +15,7 @@
 - Prescription management and delivery services.
 
 ### Remote Patient Monitoring System
-**A system that allows continuous monitoring of patients' health remotely. Integration with wearable devices for real-time data collection (heart rate, blood pressure, etc.)**
+**A system that allows continuous monitoring of patient's health remotely. Integration with wearable devices for real-time data collection (heart rate, blood pressure, etc.)**
 
 - Alerts for abnormal health indicators.
 - Data visualization for healthcare providers.
