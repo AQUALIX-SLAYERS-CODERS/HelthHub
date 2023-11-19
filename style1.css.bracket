@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.banner1
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar1
+{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.logo
+{
+    width: 120px;
+    cursor: pointer;
+    margin-left: -110px;
+    margin-top: -30px;
+}
+
+.navbar1 ul li{
+    list-style: none;
+    display: inline-block;
+    margin: -10 20px;
+    position: relative;
+}
+
+.navbar1 ul li a{
+    text-decoration: none;
+    color: yellow;
+    text-transform: uppercase;
+}
+
+.navbar1 ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: yellow;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    transition: 0.5s;
+}
+
+.navbar1 ul li:hover::after{
+   width: 100%; 
+}
+
+.eseba{
+    color:gold;
+}
+form{
+    background-color: rgba(0,0,0,0.7);
+    align-content: center;
+    padding-top: 60px;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    width:30%;
+    border-bottom-width: 25%;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+form.mihi{
+    width:10%;
+    height:2.8em;
+}
+
+
+
+
+
+
+
