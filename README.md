@@ -3,7 +3,7 @@
 ![](https://github.com/AQUALIX-SLAYERS-CODERS/HelthHub/assets/144356897/f70af991-99d6-470b-90fb-c1cfed369dcc)
 
 ![](https://img.shields.io/badge/HTML-8A2BE2) ![](https://img.shields.io/badge/CSS-33E3FF) ![](https://img.shields.io/badge/JavaScript-FFDD33) ![](https://img.shields.io/badge/Node.js-F1) ![](https://img.shields.io/badge/Firebase-33FFCE) ![](https://img.shields.io/badge/Python-335BFF)  ![](https://img.shields.io/badge/GDPR-FF3393) 
-![](https://img.shields.io/badge/GPLv%203.0-FF3333)  ![](https://img.shields.io/badge/Multi%20languages-335BFF) ![](https://img.shields.io/badge/Cross%20platform-B833FF)
+![](https://img.shields.io/badge/GPLv%203.0-FF3333)  ![](https://img.shields.io/badge/Multi%20language-335BFF) ![](https://img.shields.io/badge/Cross%20platform-B833FF)
 
 
 
