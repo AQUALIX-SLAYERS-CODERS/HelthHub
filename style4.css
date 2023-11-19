@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner4
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar4
+{
+    width: 85%;
+    margin: auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.logo
+{
+    width: 120px;
+    cursor: pointer;
+    margin-left: -110px;
+    margin-top: -30px;
+}
+
+.navbar4 ul li{
+    list-style: none;
+    display: inline-block;
+    margin: -10 10px;
+    position: relative;
+}
+
+.navbar4 ul li a{
+    text-decoration: none;
+    color: #97db4f;
+    text-transform: uppercase;
+}
+
+.navbar4 ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #97db4f;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    transition: 0.5s;
+}
+
+.navbar4 ul li:hover::after{
+   width: 100%; 
+}
+
+.loginbox {
+    width: 900px;
+    height: 420 px;
+    background: #000;
+    color: gold;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+    color:gold;
+}
+
+    .content h1 {
+        font-size: 40px;
+        margin-top: 50px;
+        color: #97db4f;
+        position: center;
+
+    }
+
+.content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-heoght: 25px;
+    position: center;
+    color: #97db4f;
+}
+.content a{
+    margin: 0px;
+    color:#97db4f ;
+    left: 50%;
+}
